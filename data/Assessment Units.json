@@ -1,0 +1,109 @@
+{
+  "title": "Dynamic Ground Water Resources of Maharashtra, 2024",
+  "section": "At a Glance",
+  "at_a_glance": {
+    "total_annual_ground_water_recharge_bcm": 33.03,
+    "annual_extractable_ground_water_resources_bcm": 31.15,
+    "annual_ground_water_extraction_bcm": 16.50,
+    "stage_of_ground_water_extraction_percent": 52.99
+  },
+  "categorization_of_assessment_units": {
+    "subtitle": "Blocks / Mandals / Taluks",
+    "data": [
+      {
+        "sl_no": 1,
+        "category": "Safe",
+        "assessment_units": {
+          "no": 302,
+          "percent": 84.12
+        },
+        "recharge_worthy_area": {
+          "sq_km": 204777.39,
+          "percent": 78.65
+        },
+        "annual_extractable_ground_water_resource": {
+          "mcm": 25212.56,
+          "percent": 80.95
+        }
+      },
+      {
+        "sl_no": 2,
+        "category": "Semi Critical",
+        "assessment_units": {
+          "no": 41,
+          "percent": 11.42
+        },
+        "recharge_worthy_area": {
+          "sq_km": 40751.55,
+          "percent": 15.65
+        },
+        "annual_extractable_ground_water_resource": {
+          "mcm": 4317.33,
+          "percent": 13.86
+        }
+      },
+      {
+        "sl_no": 3,
+        "category": "Critical",
+        "assessment_units": {
+          "no": 7,
+          "percent": 1.95
+        },
+        "recharge_worthy_area": {
+          "sq_km": 7709.54,
+          "percent": 2.96
+        },
+        "annual_extractable_ground_water_resource": {
+          "mcm": 902.27,
+          "percent": 2.9
+        }
+      },
+      {
+        "sl_no": 4,
+        "category": "Over-Exploited",
+        "assessment_units": {
+          "no": 8,
+          "percent": 2.23
+        },
+        "recharge_worthy_area": {
+          "sq_km": 6333.63,
+          "percent": 2.43
+        },
+        "annual_extractable_ground_water_resource": {
+          "mcm": 715.28,
+          "percent": 2.3
+        }
+      },
+      {
+        "sl_no": 5,
+        "category": "Saline",
+        "assessment_units": {
+          "no": 1,
+          "percent": 0.28
+        },
+        "recharge_worthy_area": {
+          "sq_km": 776.89,
+          "percent": 0.3
+        },
+        "annual_extractable_ground_water_resource": {
+          "mcm": 45.04,
+          "percent": null
+        }
+      }
+    ],
+    "total": {
+      "assessment_units": {
+        "no": 359,
+        "percent": 100
+      },
+      "recharge_worthy_area": {
+        "sq_km": 260349.01,
+        "percent": 100
+      },
+      "annual_extractable_ground_water_resource": {
+        "mcm": 31147.44,
+        "percent": 100
+      }
+    }
+  }
+}

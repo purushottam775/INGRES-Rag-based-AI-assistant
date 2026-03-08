@@ -1,0 +1,1600 @@
+[
+  {
+    "S.No.": 1,
+    "Basin": "WF_ 1",
+    "Watershed": "Andhrei",
+    "District": "Mumbai Sub",
+    "Annual Ground Water Recharge (ham)": {
+      "C": 1501,
+      "NC": 0,
+      "PQ": 0,
+      "Total": 1501
+    },
+    "Annual Extractable Ground Water Resource (ham)": {
+      "C": 1426,
+      "NC": 0,
+      "PQ": 0,
+      "Total": 1426
+    },
+    "Ground Water Extraction for all uses (ham)": {
+      "Domestic": {
+        "C": 0,
+        "NC": 595,
+        "PQ": 9,
+        "Total": 595
+      },
+      "Industrial": 0,
+      "Irrigation": {
+        "C": 23,
+        "NC": 23,
+        "PQ": 0,
+        "Total": 0
+      }
+    },
+    "Allocation of Ground Water Resource for Domestic Utilization for projected year 2025 (ham)": {
+      "C": 0,
+      "NC": 807.6,
+      "PQ": 0,
+      "Total": 807.6
+    },
+    "Net Annual Ground Water Availability for Future Use (ham)": {
+      "C": 43,
+      "NC": 43,
+      "PQ": 4,
+      "Total": 4
+    },
+    "Stage of Ground Water Extraction (%)": "safe safe",
+    "Categorization of Assessment Unit": ""
+  },
+  {
+    "S.No.": 2,
+    "Basin": "BM",
+    "Watershed": "BM-1",
+    "District": "Osmanabad",
+    "Annual Ground Water Recharge (ham)": {
+      "C": 729,
+      "NC": 3904,
+      "PQ": 0,
+      "Total": 4633
+    },
+    "Annual Extractable Ground Water Resource (ham)": {
+      "C": 656,
+      "NC": 3709,
+      "PQ": 0,
+      "Total": 4365
+    },
+    "Ground Water Extraction for all uses (ham)": {
+      "Domestic": {
+        "C": 12.6,
+        "NC": 87.3,
+        "PQ": 0,
+        "Total": 99.9
+      },
+      "Industrial": 0,
+      "Irrigation": {
+        "C": 377,
+        "NC": 0,
+        "PQ": 0,
+        "Total": 1552
+      }
+    },
+    "Allocation of Ground Water Resource for Domestic Utilization for projected year 2025 (ham)": {
+      "C": 265,
+      "NC": 2069,
+      "PQ": 0,
+      "Total": 2335
+    },
+    "Net Annual Ground Water Availability for Future Use (ham)": {
+      "C": 59,
+      "NC": 44,
+      "PQ": 46,
+      "Total": 5
+    },
+    "Stage of Ground Water Extraction (%)": "safe safe safe",
+    "Categorization of Assessment Unit": ""
+  },
+  {
+    "S.No.": 3,
+    "Basin": "BM",
+    "Watershed": "BM-1",
+    "District": "Pune Ahmed",
+    "Annual Ground Water Recharge (ham)": {
+      "C": 0,
+      "NC": 0,
+      "PQ": 2,
+      "Total": 2
+    },
+    "Annual Extractable Ground Water Resource (ham)": {
+      "C": 0,
+      "NC": 0,
+      "PQ": 9,
+      "Total": 9
+    },
+    "Ground Water Extraction for all uses (ham)": {
+      "Domestic": {
+        "C": 0,
+        "NC": 48,
+        "PQ": 0,
+        "Total": 48
+      },
+      "Industrial": 0,
+      "Irrigation": {
+        "C": 0,
+        "NC": 0,
+        "PQ": 952.3,
+        "Total": 952.3
+      }
+    },
+    "Allocation of Ground Water Resource for Domestic Utilization for projected year 2025 (ham)": {
+      "C": 0,
+      "NC": 165.5,
+      "PQ": 0,
+      "Total": 165.5
+    },
+    "Net Annual Ground Water Availability for Future Use (ham)": {
+      "C": 85,
+      "NC": 85,
+      "PQ": 8,
+      "Total": 8
+    },
+    "Stage of Ground Water Extraction (%)": "semi_ semi_cri critical tical",
+    "Categorization of Assessment Unit": ""
+  },
+  {
+    "S.No.": 4,
+    "Basin": "BM",
+    "Watershed": "BM-1",
+    "District": "nagar",
+    "Annual Ground Water Recharge (ham)": {
+      "C": 0,
+      "NC": 303.1,
+      "PQ": 0,
+      "Total": 303.1
+    },
+    "Annual Extractable Ground Water Resource (ham)": {
+      "C": 0,
+      "NC": 287.9,
+      "PQ": 0,
+      "Total": 287.9
+    },
+    "Ground Water Extraction for all uses (ham)": {
+      "Domestic": {
+        "C": 0,
+        "NC": 39.4,
+        "PQ": 0,
+        "Total": 39.4
+      },
+      "Industrial": 0,
+      "Irrigation": {
+        "C": 0,
+        "NC": 0,
+        "PQ": 102.1,
+        "Total": 102.1
+      }
+    },
+    "Allocation of Ground Water Resource for Domestic Utilization for projected year 2025 (ham)": {
+      "C": 0,
+      "NC": 146.4,
+      "PQ": 0,
+      "Total": 146.4
+    },
+    "Net Annual Ground Water Availability for Future Use (ham)": {
+      "C": 0,
+      "NC": 0,
+      "PQ": 0,
+      "Total": 0
+    },
+    "Stage of Ground Water Extraction (%)": "safe safe",
+    "Categorization of Assessment Unit": ""
+  },
+  {
+    "S.No.": 5,
+    "Basin": "BM",
+    "Watershed": "BM-10",
+    "District": "Osmanabad",
+    "Annual Ground Water Recharge (ham)": {
+      "C": 1343,
+      "NC": 82.4,
+      "PQ": 0,
+      "Total": 1425
+    },
+    "Annual Extractable Ground Water Resource (ham)": {
+      "C": 1276,
+      "NC": 78.3,
+      "PQ": 0,
+      "Total": 1354
+    },
+    "Ground Water Extraction for all uses (ham)": {
+      "Domestic": {
+        "C": 6.3,
+        "NC": 43.1,
+        "PQ": 0,
+        "Total": 49.4
+      },
+      "Industrial": 0,
+      "Irrigation": {
+        "C": 0,
+        "NC": 0,
+        "PQ": 46.4,
+        "Total": 671.1
+      }
+    },
+    "Allocation of Ground Water Resource for Domestic Utilization for projected year 2025 (ham)": {
+      "C": 25.7,
+      "NC": 562,
+      "PQ": 0,
+      "Total": 587.7
+    },
+    "Net Annual Ground Water Availability for Future Use (ham)": {
+      "C": 67,
+      "NC": 56,
+      "PQ": 56,
+      "Total": 2
+    },
+    "Stage of Ground Water Extraction (%)": "safe safe safe",
+    "Categorization of Assessment Unit": ""
+  },
+  {
+    "S.No.": 6,
+    "Basin": "BM",
+    "Watershed": "BM-10",
+    "District": "Pune",
+    "Annual Ground Water Recharge (ham)": {
+      "C": 0,
+      "NC": 0,
+      "PQ": 2,
+      "Total": 2
+    },
+    "Annual Extractable Ground Water Resource (ham)": {
+      "C": 0,
+      "NC": 973.9,
+      "PQ": 0,
+      "Total": 973.9
+    },
+    "Ground Water Extraction for all uses (ham)": {
+      "Domestic": {
+        "C": 0,
+        "NC": 45.7,
+        "PQ": 0,
+        "Total": 45.7
+      },
+      "Industrial": 0,
+      "Irrigation": {
+        "C": 0,
+        "NC": 0,
+        "PQ": 225,
+        "Total": 225
+      }
+    },
+    "Allocation of Ground Water Resource for Domestic Utilization for projected year 2025 (ham)": {
+      "C": 0,
+      "NC": 703.3,
+      "PQ": 0,
+      "Total": 703.3
+    },
+    "Net Annual Ground Water Availability for Future Use (ham)": {
+      "C": 27,
+      "NC": 27,
+      "PQ": 8,
+      "Total": 8
+    },
+    "Stage of Ground Water Extraction (%)": "safe safe",
+    "Categorization of Assessment Unit": ""
+  },
+  {
+    "S.No.": 7,
+    "Basin": "BM",
+    "Watershed": "BM-100",
+    "District": "Satara",
+    "Annual Ground Water Recharge (ham)": {
+      "C": 297,
+      "NC": 2978,
+      "PQ": 0,
+      "Total": 3275
+    },
+    "Annual Extractable Ground Water Resource (ham)": {
+      "C": 267,
+      "NC": 2829,
+      "PQ": 0,
+      "Total": 3096
+    },
+    "Ground Water Extraction for all uses (ham)": {
+      "Domestic": {
+        "C": 18.1,
+        "NC": 83.8,
+        "PQ": 0,
+        "Total": 101
+      },
+      "Industrial": 0,
+      "Irrigation": {
+        "C": 107,
+        "NC": 0,
+        "PQ": 0,
+        "Total": 1876
+      }
+    },
+    "Allocation of Ground Water Resource for Domestic Utilization for projected year 2025 (ham)": {
+      "C": 142,
+      "NC": 868.7,
+      "PQ": 0,
+      "Total": 1011
+    },
+    "Net Annual Ground Water Availability for Future Use (ham)": {
+      "C": 46,
+      "NC": 69,
+      "PQ": 67,
+      "Total": 8
+    },
+    "Stage of Ground Water Extraction (%)": "safe safe safe",
+    "Categorization of Assessment Unit": ""
+  },
+  {
+    "S.No.": 8,
+    "Basin": "BM",
+    "Watershed": "BM-101",
+    "District": "Satara",
+    "Annual Ground Water Recharge (ham)": {
+      "C": 405,
+      "NC": 3986,
+      "PQ": 0,
+      "Total": 4391
+    },
+    "Annual Extractable Ground Water Resource (ham)": {
+      "C": 364,
+      "NC": 3787,
+      "PQ": 0,
+      "Total": 4151
+    },
+    "Ground Water Extraction for all uses (ham)": {
+      "Domestic": {
+        "C": 0,
+        "NC": 150,
+        "PQ": 9,
+        "Total": 150
+      },
+      "Industrial": 0,
+      "Irrigation": {
+        "C": 3032,
+        "NC": 0,
+        "PQ": 0,
+        "Total": 3032
+      }
+    },
+    "Allocation of Ground Water Resource for Domestic Utilization for projected year 2025 (ham)": {
+      "C": 364,
+      "NC": 604.1,
+      "PQ": 0,
+      "Total": 968.7
+    },
+    "Net Annual Ground Water Availability for Future Use (ham)": {
+      "C": 84,
+      "NC": 76,
+      "PQ": 0,
+      "Total": 7
+    },
+    "Stage of Ground Water Extraction (%)": "semi_cri semi_cri tical tical",
+    "Categorization of Assessment Unit": ""
+  },
+  {
+    "S.No.": 9,
+    "Basin": "BM",
+    "Watershed": "BM-102",
+    "District": "Satara",
+    "Annual Ground Water Recharge (ham)": {
+      "C": 247,
+      "NC": 2607,
+      "PQ": 0,
+      "Total": 2854
+    },
+    "Annual Extractable Ground Water Resource (ham)": {
+      "C": 222,
+      "NC": 2477,
+      "PQ": 0,
+      "Total": 2699
+    },
+    "Ground Water Extraction for all uses (ham)": {
+      "Domestic": {
+        "C": 0,
+        "NC": 64,
+        "PQ": 0,
+        "Total": 64
+      },
+      "Industrial": 0,
+      "Irrigation": {
+        "C": 1812,
+        "NC": 0,
+        "PQ": 0,
+        "Total": 1812
+      }
+    },
+    "Allocation of Ground Water Resource for Domestic Utilization for projected year 2025 (ham)": {
+      "C": 222,
+      "NC": 600.2,
+      "PQ": 0,
+      "Total": 822.9
+    },
+    "Net Annual Ground Water Availability for Future Use (ham)": {
+      "C": 75,
+      "NC": 69,
+      "PQ": 8,
+      "Total": 5
+    },
+    "Stage of Ground Water Extraction (%)": "semi_crisafe tical",
+    "Categorization of Assessment Unit": ""
+  },
+  {
+    "S.No.": 10,
+    "Basin": "BM",
+    "Watershed": "BM-103",
+    "District": "Satara",
+    "Annual Ground Water Recharge (ham)": {
+      "C": 1771,
+      "NC": 0,
+      "PQ": 0,
+      "Total": 1771
+    },
+    "Annual Extractable Ground Water Resource (ham)": {
+      "C": 1683,
+      "NC": 0,
+      "PQ": 0,
+      "Total": 1683
+    },
+    "Ground Water Extraction for all uses (ham)": {
+      "Domestic": {
+        "C": 0,
+        "NC": 56.6,
+        "PQ": 0,
+        "Total": 56.6
+      },
+      "Industrial": 0,
+      "Irrigation": {
+        "C": 1398,
+        "NC": 0,
+        "PQ": 0,
+        "Total": 1398
+      }
+    },
+    "Allocation of Ground Water Resource for Domestic Utilization for projected year 2025 (ham)": {
+      "C": 0,
+      "NC": 228.6,
+      "PQ": 0,
+      "Total": 228.6
+    },
+    "Net Annual Ground Water Availability for Future Use (ham)": {
+      "C": 86,
+      "NC": 86,
+      "PQ": 4,
+      "Total": 4
+    },
+    "Stage of Ground Water Extraction (%)": "semi_cri semi_cri tical tical",
+    "Categorization of Assessment Unit": ""
+  },
+  {
+    "S.No.": 11,
+    "Basin": "BM",
+    "Watershed": "BM-103",
+    "District": "Sangli",
+    "Annual Ground Water Recharge (ham)": {
+      "C": 0,
+      "NC": 838,
+      "PQ": 0,
+      "Total": 838
+    },
+    "Annual Extractable Ground Water Resource (ham)": {
+      "C": 0,
+      "NC": 796.1,
+      "PQ": 0,
+      "Total": 796.1
+    },
+    "Ground Water Extraction for all uses (ham)": {
+      "Domestic": {
+        "C": 0,
+        "NC": 62.8,
+        "PQ": 117,
+        "Total": 62.8
+      },
+      "Industrial": 0,
+      "Irrigation": {
+        "C": 0,
+        "NC": 0,
+        "PQ": 450.9,
+        "Total": 450.9
+      }
+    },
+    "Allocation of Ground Water Resource for Domestic Utilization for projected year 2025 (ham)": {
+      "C": 0,
+      "NC": 282.4,
+      "PQ": 0,
+      "Total": 282.4
+    },
+    "Net Annual Ground Water Availability for Future Use (ham)": {
+      "C": 64,
+      "NC": 64,
+      "PQ": 5,
+      "Total": 5
+    },
+    "Stage of Ground Water Extraction (%)": "safe safe over_ex",
+    "Categorization of Assessment Unit": ""
+  },
+  {
+    "S.No.": 12,
+    "Basin": "BM",
+    "Watershed": "BM-104",
+    "District": "Satara",
+    "Annual Ground Water Recharge (ham)": {
+      "C": 0,
+      "NC": 0.3,
+      "PQ": 4,
+      "Total": 7
+    },
+    "Annual Extractable Ground Water Resource (ham)": {
+      "C": 0,
+      "NC": 3,
+      "PQ": 3,
+      "Total": 6
+    },
+    "Ground Water Extraction for all uses (ham)": {
+      "Domestic": {
+        "C": 0,
+        "NC": 2,
+        "PQ": 0,
+        "Total": 2
+      },
+      "Industrial": 0,
+      "Irrigation": {
+        "C": 0,
+        "NC": 0,
+        "PQ": 8,
+        "Total": 8
+      }
+    },
+    "Allocation of Ground Water Resource for Domestic Utilization for projected year 2025 (ham)": {
+      "C": 0,
+      "NC": 0,
+      "PQ": 972.3,
+      "Total": 3
+    },
+    "Net Annual Ground Water Availability for Future Use (ham)": {
+      "C": 2.8,
+      "NC": 9,
+      "PQ": 0,
+      "Total": 11.8
+    },
+    "Stage of Ground Water Extraction (%)": "safe ploited",
+    "Categorization of Assessment Unit": ""
+  },
+  {
+    "S.No.": 13,
+    "Basin": "BM",
+    "Watershed": "BM-104",
+    "District": "Sangli",
+    "Annual Ground Water Recharge (ham)": {
+      "C": 760,
+      "NC": 2382,
+      "PQ": 0,
+      "Total": 3142
+    },
+    "Annual Extractable Ground Water Resource (ham)": {
+      "C": 684,
+      "NC": 2263,
+      "PQ": 0,
+      "Total": 2947
+    },
+    "Ground Water Extraction for all uses (ham)": {
+      "Domestic": {
+        "C": 57.3,
+        "NC": 52.3,
+        "PQ": 0,
+        "Total": 109
+      },
+      "Industrial": 0,
+      "Irrigation": {
+        "C": 335,
+        "NC": 0,
+        "PQ": 0,
+        "Total": 938.5
+      }
+    },
+    "Allocation of Ground Water Resource for Domestic Utilization for projected year 2025 (ham)": {
+      "C": 291,
+      "NC": 1272,
+      "PQ": 0,
+      "Total": 1563
+    },
+    "Net Annual Ground Water Availability for Future Use (ham)": {
+      "C": 57,
+      "NC": 43,
+      "PQ": 46,
+      "Total": 4
+    },
+    "Stage of Ground Water Extraction (%)": "safe safe safe",
+    "Categorization of Assessment Unit": ""
+  },
+  {
+    "S.No.": 14,
+    "Basin": "BM",
+    "Watershed": "BM-105",
+    "District": "Solapur",
+    "Annual Ground Water Recharge (ham)": {
+      "C": 142,
+      "NC": 1478,
+      "PQ": 0,
+      "Total": 1620
+    },
+    "Annual Extractable Ground Water Resource (ham)": {
+      "C": 128,
+      "NC": 1404,
+      "PQ": 0,
+      "Total": 1532
+    },
+    "Ground Water Extraction for all uses (ham)": {
+      "Domestic": {
+        "C": 0,
+        "NC": 36.7,
+        "PQ": 0,
+        "Total": 36.7
+      },
+      "Industrial": 0,
+      "Irrigation": {
+        "C": 1158,
+        "NC": 0,
+        "PQ": 0,
+        "Total": 1158
+      }
+    },
+    "Allocation of Ground Water Resource for Domestic Utilization for projected year 2025 (ham)": {
+      "C": 128,
+      "NC": 208.9,
+      "PQ": 0,
+      "Total": 337.1
+    },
+    "Net Annual Ground Water Availability for Future Use (ham)": {
+      "C": 85,
+      "NC": 78,
+      "PQ": 1,
+      "Total": 0
+    },
+    "Stage of Ground Water Extraction (%)": "semi_cri semi_cri tical tical",
+    "Categorization of Assessment Unit": ""
+  },
+  {
+    "S.No.": 15,
+    "Basin": "BM",
+    "Watershed": "BM-105",
+    "District": "Sangli Solapu",
+    "Annual Ground Water Recharge (ham)": {
+      "C": 0,
+      "NC": 300.9,
+      "PQ": 0,
+      "Total": 300.9
+    },
+    "Annual Extractable Ground Water Resource (ham)": {
+      "C": 0,
+      "NC": 285.9,
+      "PQ": 0,
+      "Total": 285.9
+    },
+    "Ground Water Extraction for all uses (ham)": {
+      "Domestic": {
+        "C": 0,
+        "NC": 7.3,
+        "PQ": 0,
+        "Total": 7.3
+      },
+      "Industrial": 0,
+      "Irrigation": {
+        "C": 0,
+        "NC": 0,
+        "PQ": 228.7,
+        "Total": 228.7
+      }
+    },
+    "Allocation of Ground Water Resource for Domestic Utilization for projected year 2025 (ham)": {
+      "C": 0,
+      "NC": 49.8,
+      "PQ": 0,
+      "Total": 49.8
+    },
+    "Net Annual Ground Water Availability for Future Use (ham)": {
+      "C": 82,
+      "NC": 82,
+      "PQ": 6,
+      "Total": 6
+    },
+    "Stage of Ground Water Extraction (%)": "semi_cri semi_cri tical tical",
+    "Categorization of Assessment Unit": ""
+  },
+  {
+    "S.No.": 16,
+    "Basin": "BM",
+    "Watershed": "BM-106",
+    "District": "r",
+    "Annual Ground Water Recharge (ham)": {
+      "C": 0,
+      "NC": 0,
+      "PQ": 5,
+      "Total": 5
+    },
+    "Annual Extractable Ground Water Resource (ham)": {
+      "C": 0,
+      "NC": 0,
+      "PQ": 7,
+      "Total": 7
+    },
+    "Ground Water Extraction for all uses (ham)": {
+      "Domestic": {
+        "C": 0,
+        "NC": 81.8,
+        "PQ": 0,
+        "Total": 81.8
+      },
+      "Industrial": 0,
+      "Irrigation": {
+        "C": 0,
+        "NC": 0,
+        "PQ": 5,
+        "Total": 5
+      }
+    },
+    "Allocation of Ground Water Resource for Domestic Utilization for projected year 2025 (ham)": {
+      "C": 0,
+      "NC": 736.5,
+      "PQ": 0,
+      "Total": 736.5
+    },
+    "Net Annual Ground Water Availability for Future Use (ham)": {
+      "C": 7,
+      "NC": 7,
+      "PQ": 0,
+      "Total": 14
+    },
+    "Stage of Ground Water Extraction (%)": "safe safe",
+    "Categorization of Assessment Unit": ""
+  },
+  {
+    "S.No.": 17,
+    "Basin": "BM",
+    "Watershed": "BM-107",
+    "District": "Solapur",
+    "Annual Ground Water Recharge (ham)": {
+      "C": 1340,
+      "NC": 3398,
+      "PQ": 0,
+      "Total": 4739
+    },
+    "Annual Extractable Ground Water Resource (ham)": {
+      "C": 1206,
+      "NC": 3058,
+      "PQ": 0,
+      "Total": 4265
+    },
+    "Ground Water Extraction for all uses (ham)": {
+      "Domestic": {
+        "C": 48,
+        "NC": 104,
+        "PQ": 0,
+        "Total": 151
+      },
+      "Industrial": 0,
+      "Irrigation": {
+        "C": 1100,
+        "NC": 0,
+        "PQ": 0,
+        "Total": 2331
+      }
+    },
+    "Allocation of Ground Water Resource for Domestic Utilization for projected year 2025 (ham)": {
+      "C": 58.4,
+      "NC": 623.6,
+      "PQ": 0,
+      "Total": 682
+    },
+    "Net Annual Ground Water Availability for Future Use (ham)": {
+      "C": 95,
+      "NC": 79,
+      "PQ": 84,
+      "Total": 2
+    },
+    "Stage of Ground Water Extraction (%)": "semi_cri critical semi_cri tical tical",
+    "Categorization of Assessment Unit": ""
+  },
+  {
+    "S.No.": 18,
+    "Basin": "BM",
+    "Watershed": "BM-108",
+    "District": "Solapur Solapu",
+    "Annual Ground Water Recharge (ham)": {
+      "C": 1801,
+      "NC": 1355,
+      "PQ": 0,
+      "Total": 3156
+    },
+    "Annual Extractable Ground Water Resource (ham)": {
+      "C": 1711,
+      "NC": 1287,
+      "PQ": 0,
+      "Total": 2999
+    },
+    "Ground Water Extraction for all uses (ham)": {
+      "Domestic": {
+        "C": 34.6,
+        "NC": 42.8,
+        "PQ": 0,
+        "Total": 77.4
+      },
+      "Industrial": 0,
+      "Irrigation": {
+        "C": 632,
+        "NC": 0,
+        "PQ": 0,
+        "Total": 1061
+      }
+    },
+    "Allocation of Ground Water Resource for Domestic Utilization for projected year 2025 (ham)": {
+      "C": 1044,
+      "NC": 183.6,
+      "PQ": 0,
+      "Total": 1228
+    },
+    "Net Annual Ground Water Availability for Future Use (ham)": {
+      "C": 39,
+      "NC": 85.59,
+      "PQ": 0,
+      "Total": 7
+    },
+    "Stage of Ground Water Extraction (%)": "semi_crisafe safe tical semi_cri semi_cri",
+    "Categorization of Assessment Unit": ""
+  },
+  {
+    "S.No.": 19,
+    "Basin": "BM",
+    "Watershed": "BM-109",
+    "District": "r Osman",
+    "Annual Ground Water Recharge (ham)": {
+      "C": 0,
+      "NC": 0,
+      "PQ": 7,
+      "Total": 7
+    },
+    "Annual Extractable Ground Water Resource (ham)": {
+      "C": 0,
+      "NC": 4,
+      "PQ": 6,
+      "Total": 0
+    },
+    "Ground Water Extraction for all uses (ham)": {
+      "Domestic": {
+        "C": 37.8,
+        "NC": 25.4,
+        "PQ": 0,
+        "Total": 63.1
+      },
+      "Industrial": 0,
+      "Irrigation": {
+        "C": 0,
+        "NC": 0,
+        "PQ": 851.8,
+        "Total": 1
+      }
+    },
+    "Allocation of Ground Water Resource for Domestic Utilization for projected year 2025 (ham)": {
+      "C": 454.5,
+      "NC": 0,
+      "PQ": 616,
+      "Total": 5
+    },
+    "Net Annual Ground Water Availability for Future Use (ham)": {
+      "C": 9,
+      "NC": 9,
+      "PQ": 7,
+      "Total": 52
+    },
+    "Stage of Ground Water Extraction (%)": "safe tical tical",
+    "Categorization of Assessment Unit": ""
+  },
+  {
+    "S.No.": 20,
+    "Basin": "BM",
+    "Watershed": "BM-11",
+    "District": "abad",
+    "Annual Ground Water Recharge (ham)": {
+      "C": 0,
+      "NC": 7,
+      "PQ": 8,
+      "Total": 5
+    },
+    "Annual Extractable Ground Water Resource (ham)": {
+      "C": 0,
+      "NC": 4,
+      "PQ": 4,
+      "Total": 8
+    },
+    "Ground Water Extraction for all uses (ham)": {
+      "Domestic": {
+        "C": 13,
+        "NC": 71.1,
+        "PQ": 0,
+        "Total": 84.1
+      },
+      "Industrial": 0,
+      "Irrigation": {
+        "C": 0,
+        "NC": 0,
+        "PQ": 89.3,
+        "Total": 6
+      }
+    },
+    "Allocation of Ground Water Resource for Domestic Utilization for projected year 2025 (ham)": {
+      "C": 94,
+      "NC": 0,
+      "PQ": 7,
+      "Total": 7
+    },
+    "Net Annual Ground Water Availability for Future Use (ham)": {
+      "C": 1,
+      "NC": 1,
+      "PQ": 6,
+      "Total": 11
+    },
+    "Stage of Ground Water Extraction (%)": "safe safe safe over_ex semi_cri",
+    "Categorization of Assessment Unit": ""
+  },
+  {
+    "S.No.": 21,
+    "Basin": "BM",
+    "Watershed": "BM-11",
+    "District": "Pune",
+    "Annual Ground Water Recharge (ham)": {
+      "C": 0,
+      "NC": 3,
+      "PQ": 7,
+      "Total": 0
+    },
+    "Annual Extractable Ground Water Resource (ham)": {
+      "C": 0,
+      "NC": 1,
+      "PQ": 2,
+      "Total": 3
+    },
+    "Ground Water Extraction for all uses (ham)": {
+      "Domestic": {
+        "C": 31,
+        "NC": 51.3,
+        "PQ": 0,
+        "Total": 82.3
+      },
+      "Industrial": 0,
+      "Irrigation": {
+        "C": 0,
+        "NC": 0,
+        "PQ": 720,
+        "Total": 926.7
+      }
+    },
+    "Allocation of Ground Water Resource for Domestic Utilization for projected year 2025 (ham)": {
+      "C": 0,
+      "NC": 397,
+      "PQ": 0,
+      "Total": 397
+    },
+    "Net Annual Ground Water Availability for Future Use (ham)": {
+      "C": 0,
+      "NC": 0,
+      "PQ": 0,
+      "Total": 0
+    },
+    "Stage of Ground Water Extraction (%)": "safe ploited tical",
+    "Categorization of Assessment Unit": ""
+  },
+  {
+    "S.No.": 22,
+    "Basin": "BM",
+    "Watershed": "BM-110",
+    "District": "Solapur Solapu",
+    "Annual Ground Water Recharge (ham)": {
+      "C": 446,
+      "NC": 1544,
+      "PQ": 0,
+      "Total": 1990
+    },
+    "Annual Extractable Ground Water Resource (ham)": {
+      "C": 402,
+      "NC": 1466,
+      "PQ": 0,
+      "Total": 1868
+    },
+    "Ground Water Extraction for all uses (ham)": {
+      "Domestic": {
+        "C": 0,
+        "NC": 76.1,
+        "PQ": 0,
+        "Total": 76.1
+      },
+      "Industrial": 0,
+      "Irrigation": {
+        "C": 1231,
+        "NC": 0,
+        "PQ": 0,
+        "Total": 1231
+      }
+    },
+    "Allocation of Ground Water Resource for Domestic Utilization for projected year 2025 (ham)": {
+      "C": 402,
+      "NC": 158.8,
+      "PQ": 0,
+      "Total": 560.8
+    },
+    "Net Annual Ground Water Availability for Future Use (ham)": {
+      "C": 89,
+      "NC": 70,
+      "PQ": 2,
+      "Total": 0
+    },
+    "Stage of Ground Water Extraction (%)": "semi_crisafe tical over_ex over_ex",
+    "Categorization of Assessment Unit": ""
+  },
+  {
+    "S.No.": 23,
+    "Basin": "BM",
+    "Watershed": "BM-111",
+    "District": "r Solapu",
+    "Annual Ground Water Recharge (ham)": {
+      "C": 0,
+      "NC": 0,
+      "PQ": 9,
+      "Total": 9
+    },
+    "Annual Extractable Ground Water Resource (ham)": {
+      "C": 0,
+      "NC": 0,
+      "PQ": 4,
+      "Total": 4
+    },
+    "Ground Water Extraction for all uses (ham)": {
+      "Domestic": {
+        "C": 0,
+        "NC": 30.9,
+        "PQ": 0,
+        "Total": 30.9
+      },
+      "Industrial": 0,
+      "Irrigation": {
+        "C": 0,
+        "NC": 0,
+        "PQ": 6,
+        "Total": 6
+      }
+    },
+    "Allocation of Ground Water Resource for Domestic Utilization for projected year 2025 (ham)": {
+      "C": 0,
+      "NC": 0,
+      "PQ": 0,
+      "Total": 0
+    },
+    "Net Annual Ground Water Availability for Future Use (ham)": {
+      "C": 0.2,
+      "NC": 0.2,
+      "PQ": 88,
+      "Total": 88
+    },
+    "Stage of Ground Water Extraction (%)": "ploited ploited semi_cri semi_cri",
+    "Categorization of Assessment Unit": ""
+  },
+  {
+    "S.No.": 24,
+    "Basin": "BM",
+    "Watershed": "BM-112",
+    "District": "r",
+    "Annual Ground Water Recharge (ham)": {
+      "C": 0,
+      "NC": 0,
+      "PQ": 2,
+      "Total": 2
+    },
+    "Annual Extractable Ground Water Resource (ham)": {
+      "C": 0,
+      "NC": 0,
+      "PQ": 4,
+      "Total": 4
+    },
+    "Ground Water Extraction for all uses (ham)": {
+      "Domestic": {
+        "C": 0,
+        "NC": 81.8,
+        "PQ": 0,
+        "Total": 81.8
+      },
+      "Industrial": 0,
+      "Irrigation": {
+        "C": 0,
+        "NC": 0,
+        "PQ": 0,
+        "Total": 0
+      }
+    },
+    "Allocation of Ground Water Resource for Domestic Utilization for projected year 2025 (ham)": {
+      "C": 0,
+      "NC": 180.6,
+      "PQ": 0,
+      "Total": 180.6
+    },
+    "Net Annual Ground Water Availability for Future Use (ham)": {
+      "C": 4,
+      "NC": 4,
+      "PQ": 51,
+      "Total": 60
+    },
+    "Stage of Ground Water Extraction (%)": "tical tical",
+    "Categorization of Assessment Unit": ""
+  },
+  {
+    "S.No.": 25,
+    "Basin": "BM",
+    "Watershed": "BM-112",
+    "District": "Sangli",
+    "Annual Ground Water Recharge (ham)": {
+      "C": 65.2,
+      "NC": 71.2,
+      "PQ": 0,
+      "Total": 136.5
+    },
+    "Annual Extractable Ground Water Resource (ham)": {
+      "C": 62,
+      "NC": 67.7,
+      "PQ": 0,
+      "Total": 129.6
+    },
+    "Ground Water Extraction for all uses (ham)": {
+      "Domestic": {
+        "C": 1.9,
+        "NC": 3.5,
+        "PQ": 0,
+        "Total": 5.4
+      },
+      "Industrial": 0,
+      "Irrigation": {
+        "C": 0,
+        "NC": 0,
+        "PQ": 30.2,
+        "Total": 37.4
+      }
+    },
+    "Allocation of Ground Water Resource for Domestic Utilization for projected year 2025 (ham)": {
+      "C": 29.9,
+      "NC": 26.7,
+      "PQ": 0,
+      "Total": 56.6
+    },
+    "Net Annual Ground Water Availability for Future Use (ham)": {
+      "C": 0,
+      "NC": 0,
+      "PQ": 0,
+      "Total": 0
+    },
+    "Stage of Ground Water Extraction (%)": "safe safe safe",
+    "Categorization of Assessment Unit": ""
+  },
+  {
+    "S.No.": 26,
+    "Basin": "BM",
+    "Watershed": "BM-113",
+    "District": "Sangli",
+    "Annual Ground Water Recharge (ham)": {
+      "C": 2599,
+      "NC": 680.6,
+      "PQ": 0,
+      "Total": 3279
+    },
+    "Annual Extractable Ground Water Resource (ham)": {
+      "C": 2469,
+      "NC": 646.6,
+      "PQ": 0,
+      "Total": 3115
+    },
+    "Ground Water Extraction for all uses (ham)": {
+      "Domestic": {
+        "C": 160,
+        "NC": 13.5,
+        "PQ": 0,
+        "Total": 173
+      },
+      "Industrial": 0,
+      "Irrigation": {
+        "C": 1774,
+        "NC": 0,
+        "PQ": 0,
+        "Total": 227.1
+      }
+    },
+    "Allocation of Ground Water Resource for Domestic Utilization for projected year 2025 (ham)": {
+      "C": 534,
+      "NC": 406,
+      "PQ": 0,
+      "Total": 940.3
+    },
+    "Net Annual Ground Water Availability for Future Use (ham)": {
+      "C": 78,
+      "NC": 37,
+      "PQ": 69,
+      "Total": 4
+    },
+    "Stage of Ground Water Extraction (%)": "semi_crisafe safe tical",
+    "Categorization of Assessment Unit": ""
+  },
+  {
+    "S.No.": 27,
+    "Basin": "BM",
+    "Watershed": "BM-114",
+    "District": "Sangli",
+    "Annual Ground Water Recharge (ham)": {
+      "C": 5090,
+      "NC": 821.1,
+      "PQ": 0,
+      "Total": 5911
+    },
+    "Annual Extractable Ground Water Resource (ham)": {
+      "C": 4835,
+      "NC": 738.9,
+      "PQ": 0,
+      "Total": 5574
+    },
+    "Ground Water Extraction for all uses (ham)": {
+      "Domestic": {
+        "C": 172,
+        "NC": 8.9,
+        "PQ": 0,
+        "Total": 181
+      },
+      "Industrial": 0,
+      "Irrigation": {
+        "C": 2222,
+        "NC": 0,
+        "PQ": 0,
+        "Total": 167.9
+      }
+    },
+    "Allocation of Ground Water Resource for Domestic Utilization for projected year 2025 (ham)": {
+      "C": 2440,
+      "NC": 562.1,
+      "PQ": 0,
+      "Total": 3002
+    },
+    "Net Annual Ground Water Availability for Future Use (ham)": {
+      "C": 49,
+      "NC": 23,
+      "PQ": 46,
+      "Total": 5
+    },
+    "Stage of Ground Water Extraction (%)": "safe safe safe",
+    "Categorization of Assessment Unit": ""
+  },
+  {
+    "S.No.": 28,
+    "Basin": "BM",
+    "Watershed": "BM-115",
+    "District": "Solapur",
+    "Annual Ground Water Recharge (ham)": {
+      "C": 1206,
+      "NC": 0,
+      "PQ": 0,
+      "Total": 1206
+    },
+    "Annual Extractable Ground Water Resource (ham)": {
+      "C": 1146,
+      "NC": 0,
+      "PQ": 0,
+      "Total": 1146
+    },
+    "Ground Water Extraction for all uses (ham)": {
+      "Domestic": {
+        "C": 0,
+        "NC": 41.6,
+        "PQ": 0,
+        "Total": 41.6
+      },
+      "Industrial": 0,
+      "Irrigation": {
+        "C": 0,
+        "NC": 0,
+        "PQ": 954.3,
+        "Total": 954.3
+      }
+    },
+    "Allocation of Ground Water Resource for Domestic Utilization for projected year 2025 (ham)": {
+      "C": 0,
+      "NC": 150.6,
+      "PQ": 0,
+      "Total": 150.6
+    },
+    "Net Annual Ground Water Availability for Future Use (ham)": {
+      "C": 86,
+      "NC": 86,
+      "PQ": 9,
+      "Total": 9
+    },
+    "Stage of Ground Water Extraction (%)": "semi_cri semi_cri tical tical semi_cri semi_cri",
+    "Categorization of Assessment Unit": ""
+  },
+  {
+    "S.No.": 29,
+    "Basin": "BM",
+    "Watershed": "BM-115",
+    "District": "Sangli",
+    "Annual Ground Water Recharge (ham)": {
+      "C": 375.2,
+      "NC": 0,
+      "PQ": 832,
+      "Total": 8
+    },
+    "Annual Extractable Ground Water Resource (ham)": {
+      "C": 356.5,
+      "NC": 0,
+      "PQ": 790.4,
+      "Total": 9
+    },
+    "Ground Water Extraction for all uses (ham)": {
+      "Domestic": {
+        "C": 15.6,
+        "NC": 12.1,
+        "PQ": 0,
+        "Total": 27.7
+      },
+      "Industrial": 0,
+      "Irrigation": {
+        "C": 0,
+        "NC": 0,
+        "PQ": 232,
+        "Total": 570.2
+      }
+    },
+    "Allocation of Ground Water Resource for Domestic Utilization for projected year 2025 (ham)": {
+      "C": 80.1,
+      "NC": 112.4,
+      "PQ": 0,
+      "Total": 192.5
+    },
+    "Net Annual Ground Water Availability for Future Use (ham)": {
+      "C": 0,
+      "NC": 0,
+      "PQ": 0,
+      "Total": 0
+    },
+    "Stage of Ground Water Extraction (%)": "safe tical tical",
+    "Categorization of Assessment Unit": ""
+  },
+  {
+    "S.No.": 30,
+    "Basin": "BM",
+    "Watershed": "BM-116",
+    "District": "Solapur",
+    "Annual Ground Water Recharge (ham)": {
+      "C": 1448,
+      "NC": 2129,
+      "PQ": 0,
+      "Total": 3577
+    },
+    "Annual Extractable Ground Water Resource (ham)": {
+      "C": 1375,
+      "NC": 2023,
+      "PQ": 0,
+      "Total": 3399
+    },
+    "Ground Water Extraction for all uses (ham)": {
+      "Domestic": {
+        "C": 118,
+        "NC": 112,
+        "PQ": 3,
+        "Total": 230
+      },
+      "Industrial": 0,
+      "Irrigation": {
+        "C": 685,
+        "NC": 0,
+        "PQ": 0,
+        "Total": 1300
+      }
+    },
+    "Allocation of Ground Water Resource for Domestic Utilization for projected year 2025 (ham)": {
+      "C": 572,
+      "NC": 610.4,
+      "PQ": 0,
+      "Total": 1182
+    },
+    "Net Annual Ground Water Availability for Future Use (ham)": {
+      "C": 58,
+      "NC": 69,
+      "PQ": 65,
+      "Total": 4
+    },
+    "Stage of Ground Water Extraction (%)": "safe safe safe semi_cri",
+    "Categorization of Assessment Unit": ""
+  },
+  {
+    "S.No.": 31,
+    "Basin": "BM",
+    "Watershed": "BM-116",
+    "District": "Sangli",
+    "Annual Ground Water Recharge (ham)": {
+      "C": 735.4,
+      "NC": 0,
+      "PQ": 3,
+      "Total": 7
+    },
+    "Annual Extractable Ground Water Resource (ham)": {
+      "C": 698.7,
+      "NC": 0,
+      "PQ": 0,
+      "Total": 7
+    },
+    "Ground Water Extraction for all uses (ham)": {
+      "Domestic": {
+        "C": 4.1,
+        "NC": 20.6,
+        "PQ": 0,
+        "Total": 24.7
+      },
+      "Industrial": 0,
+      "Irrigation": {
+        "C": 0,
+        "NC": 0,
+        "PQ": 302.3,
+        "Total": 639.9
+      }
+    },
+    "Allocation of Ground Water Resource for Domestic Utilization for projected year 2025 (ham)": {
+      "C": 375.7,
+      "NC": 0,
+      "PQ": 514.1,
+      "Total": 4
+    },
+    "Net Annual Ground Water Availability for Future Use (ham)": {
+      "C": 2,
+      "NC": 2,
+      "PQ": 4,
+      "Total": 49
+    },
+    "Stage of Ground Water Extraction (%)": "safe safe tical",
+    "Categorization of Assessment Unit": ""
+  },
+  {
+    "S.No.": 32,
+    "Basin": "BM",
+    "Watershed": "BM-117",
+    "District": "Sangli Solapu",
+    "Annual Ground Water Recharge (ham)": {
+      "C": 850.8,
+      "NC": 0,
+      "PQ": 0.6,
+      "Total": 4
+    },
+    "Annual Extractable Ground Water Resource (ham)": {
+      "C": 765.7,
+      "NC": 0,
+      "PQ": 0.3,
+      "Total": 0
+    },
+    "Ground Water Extraction for all uses (ham)": {
+      "Domestic": {
+        "C": 21.9,
+        "NC": 22.6,
+        "PQ": 0,
+        "Total": 44.5
+      },
+      "Industrial": 0,
+      "Irrigation": {
+        "C": 0,
+        "NC": 0,
+        "PQ": 254.8,
+        "Total": 906.2
+      }
+    },
+    "Allocation of Ground Water Resource for Domestic Utilization for projected year 2025 (ham)": {
+      "C": 488.3,
+      "NC": 0,
+      "PQ": 0,
+      "Total": 3
+    },
+    "Net Annual Ground Water Availability for Future Use (ham)": {
+      "C": 0,
+      "NC": 2,
+      "PQ": 4,
+      "Total": 91
+    },
+    "Stage of Ground Water Extraction (%)": "safe safe safe",
+    "Categorization of Assessment Unit": ""
+  },
+  {
+    "S.No.": 33,
+    "Basin": "BM",
+    "Watershed": "BM-117",
+    "District": "r",
+    "Annual Ground Water Recharge (ham)": {
+      "C": 0,
+      "NC": 0,
+      "PQ": 7,
+      "Total": 7
+    },
+    "Annual Extractable Ground Water Resource (ham)": {
+      "C": 0,
+      "NC": 0,
+      "PQ": 9,
+      "Total": 9
+    },
+    "Ground Water Extraction for all uses (ham)": {
+      "Domestic": {
+        "C": 0,
+        "NC": 46.9,
+        "PQ": 0,
+        "Total": 46.9
+      },
+      "Industrial": 0,
+      "Irrigation": {
+        "C": 0,
+        "NC": 0,
+        "PQ": 5,
+        "Total": 5
+      }
+    },
+    "Allocation of Ground Water Resource for Domestic Utilization for projected year 2025 (ham)": {
+      "C": 0,
+      "NC": 97.5,
+      "PQ": 0,
+      "Total": 97.5
+    },
+    "Net Annual Ground Water Availability for Future Use (ham)": {
+      "C": 7,
+      "NC": 7,
+      "PQ": 0,
+      "Total": 14
+    },
+    "Stage of Ground Water Extraction (%)": "critical critical",
+    "Categorization of Assessment Unit": ""
+  },
+  {
+    "S.No.": 34,
+    "Basin": "BM",
+    "Watershed": "BM-118",
+    "District": "Sangli",
+    "Annual Ground Water Recharge (ham)": {
+      "C": 3598,
+      "NC": 1496,
+      "PQ": 0,
+      "Total": 5094
+    },
+    "Annual Extractable Ground Water Resource (ham)": {
+      "C": 3418,
+      "NC": 1346,
+      "PQ": 0,
+      "Total": 4764
+    },
+    "Ground Water Extraction for all uses (ham)": {
+      "Domestic": {
+        "C": 45.2,
+        "NC": 43.1,
+        "PQ": 0,
+        "Total": 88.3
+      },
+      "Industrial": 0,
+      "Irrigation": {
+        "C": 1011,
+        "NC": 0,
+        "PQ": 0,
+        "Total": 1157
+      }
+    },
+    "Allocation of Ground Water Resource for Domestic Utilization for projected year 2025 (ham)": {
+      "C": 2361,
+      "NC": 145.4,
+      "PQ": 0,
+      "Total": 2506
+    },
+    "Net Annual Ground Water Availability for Future Use (ham)": {
+      "C": 30,
+      "NC": 89,
+      "PQ": 47,
+      "Total": 9
+    },
+    "Stage of Ground Water Extraction (%)": "semi_crisafe safe tical",
+    "Categorization of Assessment Unit": ""
+  }
+]

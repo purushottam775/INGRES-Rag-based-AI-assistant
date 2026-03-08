@@ -1,0 +1,35 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js",
+    "index": "node scripts/indexDocuments.js"
+  },
+  "dependencies": {
+    "@google/genai": "^1.42.0",
+    "@pinecone-database/pinecone": "^5.1.2",
+    "axios": "^1.13.6",
+    "cohere-ai": "^7.20.0",
+    "cors": "^2.8.6",
+    "csv-parser": "^3.2.0",
+    "dotenv": "^16.6.1",
+    "express": "^5.2.1",
+    "form-data": "^4.0.5",
+    "groq-sdk": "^0.37.0",
+    "mongoose": "^9.2.1",
+    "multer": "^2.1.0",
+    "node-fetch": "^3.3.2",
+    "openai": "^6.22.0",
+    "pdf-parse": "^1.1.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  },
+  "main": "server.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
